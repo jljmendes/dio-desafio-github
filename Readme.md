@@ -1,3 +1,3 @@
 # Projeto desafio DIO
 
-## Realizado por Jorge Mendes.
+## Exercicio Realizado por Jorge Mendes .
